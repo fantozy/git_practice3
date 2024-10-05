@@ -9,3 +9,5 @@ def is_palindrome(text):
         left += 1
         right -= 1
     return True
+
+print("Hello Git")
