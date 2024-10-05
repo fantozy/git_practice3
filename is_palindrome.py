@@ -9,6 +9,3 @@ def is_palindrome(text):
         left += 1
         right -= 1
     return True
-
-a = 5
-print(a)
