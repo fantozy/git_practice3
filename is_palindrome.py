@@ -10,4 +10,4 @@ def is_palindrome(text):
         right -= 1
     return True
 
-print("Hello Git")
+print("Hello world")
